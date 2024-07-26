@@ -22,7 +22,22 @@ DummyJSON API is used as a dummy data
 ## Gallery
 
 ![image](./screenshot1.png)
+
+##
+
 ![image](./screenshot2.png)
+
+##
+
+
 ![image](./screenshot3.png)
+
+##
+
+
 ![image](./screenshot4.png)
+
+##
+
+
 ![image](./screenshot5.png)
