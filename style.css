@@ -125,7 +125,9 @@ body{
 	justify-content:center;
 	align-items:center;
 	background-color:white;
+	animation: fadeIn 2s;
 }
+
 
 .name, .details{
 	display:flex;
@@ -200,6 +202,7 @@ body{
 	justify-items:center;
 	align-items:center;
 	justify-content:center;
+	animation: fadeIn 1s;
 }
 
 .detailsModal{
@@ -506,3 +509,11 @@ table th{
 	}
 }
 
+
+
+/* ---------------------------------- KEY FRAMES ---------------------------------- */
+
+@keyframes fadeIn{
+	0% {opacity:0}
+	100% {opacity:100%}
+}
